@@ -2,9 +2,9 @@
 
 Plan
 1.Explore and Prep
-    1. Join the tables
-    2. Create new 'Late' column
-    3. Create age column from date of birth
+    * Join the tables
+    * Create new 'Late' column
+    * Create age column from date of birth
 2. Analyse
 
 See how particular variables effect whether a book is returned late
