@@ -1,7 +1,9 @@
 # Code Challenge
 
 Plan
+
 1.Explore and Prep
+
 * Join the tables
 
 * Create new 'Late' column
